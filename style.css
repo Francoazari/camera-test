@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.cameras {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.cameras div {
+    width: 50%;
+    height: 100px;
+    border: 1px solid black;
+    
+}
+
+.div-1{
+
+}
